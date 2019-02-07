@@ -7,7 +7,8 @@ public class Test {
 	paquete2.Persona p2 = new paquete2.Persona(24,"Jose","Masculino");
 	System.out.println(p.toString());
 	System.out.println(p2.toString());
-
+	System.out.println("Ainjaaaaa!!!");
+	System.out.println("Ameliaaaaaa!!!");
 	}
 
 }
